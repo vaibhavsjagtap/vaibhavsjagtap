@@ -1,5 +1,6 @@
+
 - 👋 Hi, I’m @vaibhavsjagtap
-- 👀 I’m interested in AWS 
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Data Structures and Algorithms
 
 <!---
